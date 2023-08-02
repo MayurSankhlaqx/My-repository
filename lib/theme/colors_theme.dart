@@ -28,7 +28,6 @@ class ThemeColor {
   static const Color grayText = const Color(0xffB0AEAE);
   static const Color lightGreyray = const Color.fromARGB(255, 209, 208, 208);
 
-
   ThemeData get themeData {
     ColorScheme colorSchemeMovieApp = const ColorScheme(
       // primary green
